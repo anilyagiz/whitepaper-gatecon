@@ -1,0 +1,13 @@
+{
+  
+  "about": {
+    "title": "Hakkımızda",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Bana Ulaş ↗",
+    "type": "page",
+    "href": "https://www.linkedin.com/in/anilyagiz/",
+    "newWindow": true
+  }
+}
